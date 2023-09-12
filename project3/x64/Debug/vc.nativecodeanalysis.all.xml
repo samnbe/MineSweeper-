@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+      <FILENAME>Board.h</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Board::tm' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Board::{ctor}</FUNCTION>
+    <DECORATED>??0Board@@QEAA@XZ</DECORATED>
+    <FUNCLINE>38</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Board::tm</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+      <FILENAME>Board.h</FILENAME>
+      <LINE>45</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Board::tm' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Board::{ctor}</FUNCTION>
+    <DECORATED>??0Board@@QEAA@HHH@Z</DECORATED>
+    <FUNCLINE>45</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Board::tm</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+      <FILENAME>Board.h</FILENAME>
+      <LINE>126</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Buffer overrun while writing to 'mineA'.</DESCRIPTION>
+    <FUNCTION>Board::addMines</FUNCTION>
+    <DECORATED>?addMines@Board@@QEAAXXZ</DECORATED>
+    <FUNCLINE>109</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>110</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>111</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>112</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>116</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>118</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>122</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>123</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>123</LINE>
+        <COLUMN>19</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'u&lt;mines')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>124</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>125</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Samatha Bennett\project3\project3\</FILEPATH>
+        <FILENAME>Board.h</FILENAME>
+        <LINE>126</LINE>
+        <COLUMN>22</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid write to 'mineA[15]', (writable range is 0 to 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

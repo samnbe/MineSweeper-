@@ -1,0 +1,30 @@
+﻿  project3.cpp
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(113,36): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(116,36): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(119,36): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(147,9): warning C4101: 'sec2': unreferenced local variable
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(142,9): warning C4101: 'vectAdded': unreferenced local variable
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(145,9): warning C4101: 'min2': unreferenced local variable
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(144,9): warning C4101: 'min1': unreferenced local variable
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(146,9): warning C4101: 'sec1': unreferenced local variable
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(371,18): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(377,29): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(769,26): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Samatha Bennett\project3\project3\project3.cpp(775,37): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  project3.vcxproj -> C:\Users\Samatha Bennett\project3\x64\Debug\project3.exe
